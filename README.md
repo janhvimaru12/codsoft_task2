@@ -1,1 +1,1 @@
-# codsoft_task2
+This repository contains the 2nd project- CREDIT CARD FRAUD DETECTION. In this project, I developed a machine learning model to identify fraudulent transactions. In this project, I preprocessed and normalized the transaction data, handled class imbalance issues and used Logistic Regression method to train the model. The model achieved an accuracy of about 93%.
